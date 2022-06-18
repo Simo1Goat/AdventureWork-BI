@@ -64,6 +64,9 @@ avons choisi de travailler avec Power BI.
 ![alt text](https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg "Microsoft PowerBI")
 
 ## DM en étoile et flocon de neige .
-**Nous avons travaillé sur le schéma suivant : Purchasing
+**_Nous avons travaillé sur le schéma suivant : Purchasing**
 
+![alt text](https://github.com/Simo1Goat/AdventureWork-BI/blob/master/HABIBI_MOHAMED%20BI%20adventureWork/snapshots/Purchase%20DB.png "Purchase Part")
 
+## pour plus de détails, vous pouvez consulter le rapport:
+[cliquer ici !!](https://github.com/Simo1Goat/AdventureWork-BI/blob/f8fc96ce99f034f4cf9f6e424584e42fd70b3504/HABIBI_MOHAMED%20BI%20adventureWork/rapport.pdf)
